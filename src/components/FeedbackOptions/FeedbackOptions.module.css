@@ -1,0 +1,22 @@
+.button {
+  margin: 10px;
+  padding: 10px 20px;
+
+  font-size: 20px;
+  text-transform: uppercase;
+  background-color: rgba(232, 235, 23, 0.855);
+  color: rgb(121, 121, 92);
+  border-radius: 5px;
+
+  transition: 300ms;
+
+}
+
+.button:hover,
+:focus-visible {
+  background-color: teal;
+  color: white;
+  box-shadow: 0 0 5px teal;
+  cursor: pointer;
+  transform: scale(1.1);
+}

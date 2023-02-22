@@ -1,0 +1,18 @@
+.section {
+    padding: 30px;
+    border: 1px solid rgb(39, 154, 148);
+    border-radius: 10px;
+    background-color: rgb(160, 212, 212);
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.title {
+    margin-bottom: 20px;
+}
+
+.title {
+    font-weight: 900;
+}
